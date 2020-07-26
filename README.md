@@ -7,7 +7,7 @@ In this video I demonstrate how to use LSTM to predict Google Stock price (you c
 <br>
 In this tutorial I used Tensorflow 1.15.0 and Keras 2.3.1
 <br>
-Download data from: https://finance.yahoo.com/quote/GOOG/... (check 1:59 in video).
+Download data from: https://finance.yahoo.com/quote/GOOG/history
 <br>
 This is real life Python code example for demonstration purposes, so the model is not very accuracy and of course could be improved or tuned. 
 <br>
